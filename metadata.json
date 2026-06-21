@@ -1,0 +1,6 @@
+{
+  "name": "RevenuePulse AI",
+  "description": "Premium Revenue & Marketing Intelligence Platform featuring an AI Business Analyst, Revenue Wrapped yearly summaries, Strategic Personality metrics, forecasting, and interactive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
