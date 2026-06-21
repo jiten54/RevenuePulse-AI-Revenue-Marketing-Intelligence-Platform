@@ -17,7 +17,7 @@ Built with modern web technologies, the platform transforms raw business data in
 
 ## Live Demo
 
-🔗 Demo: https://your-demo-url.vercel.app
+🔗https://revenue-pulse-ai-revenue-marketing.vercel.app/
 
 ---
 
